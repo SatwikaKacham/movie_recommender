@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+:root {
+  --primary: #1b4332;
+  --secoundary: #ffbe0b;
+}
+body {
+  margin: auto 20%;
+}
+button {
+  padding: 0.5rem;
+  margin: 1.5rem 1rem;
+  background-color: var(--secoundary);
+  border-radius: 1rem;
+  border: 2px solid black;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.head {
+  color: #1b4332;
+  text-shadow: 2px 2px 2px grey;
+  text-align: center;
+}
+li {
+  list-style-type: none;
+  padding: 0.3rem;
+  text-align: left;
+  border: 1px solid black;
+  margin: 10px;
+  border-radius: 10px;
+}
+.itemName {
+  font-weight: bold;
+  padding: 3px;
+}
+.itemrate {
+  padding: 3px;
+}
