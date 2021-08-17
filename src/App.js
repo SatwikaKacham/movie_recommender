@@ -10,7 +10,8 @@ var moviesList = {
   Action: [
     { name: "Avengers", rate: "4.8/5" },
     { name: "X-men", rate: "4.8/5" },
-    { name: "Wonder Women", rate: "4.2/5" }
+    { name: "Wonder Women", rate: "4.2/5" },
+    { name: "Mission Impossible", rate: "4/5" }
   ],
 
   Science: [
